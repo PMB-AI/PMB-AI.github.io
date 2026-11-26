@@ -1,0 +1,21 @@
+[
+ {
+  "keyword": "UPSCALE",
+  "title": "Upscayl: free AI photo upscaler",
+  "desc": "Turn blurry photos sharp at 4x the size. Free, open source, runs offline on Windows, Mac and Linux.",
+  "url": "https://github.com/upscayl/upscayl",
+  "cta": "Get it free",
+  "extra": [
+   {
+    "label": "Download",
+    "url": "https://github.com/upscayl/upscayl/releases"
+   },
+   {
+    "label": "Website",
+    "url": "https://upscayl.org"
+   }
+  ],
+  "note": "Needs a graphics card with Vulkan support.",
+  "date": "2026-11-27"
+ }
+]
