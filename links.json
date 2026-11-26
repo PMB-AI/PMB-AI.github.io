@@ -1,5 +1,24 @@
 [
  {
+  "keyword": "VOICE",
+  "title": "audio.cpp: free local AI audio",
+  "desc": "Clone voices, make music and transcribe speech on your own computer. Free, open source, Windows, Mac and Linux.",
+  "url": "https://github.com/0xShug0/audio.cpp",
+  "cta": "Get it free",
+  "extra": [
+   {
+    "label": "Releases (downloads)",
+    "url": "https://github.com/0xShug0/audio.cpp/releases"
+   },
+   {
+    "label": "Model licences",
+    "url": "https://github.com/0xShug0/audio.cpp/blob/main/docs/model_licenses.md"
+   }
+  ],
+  "note": "Each model keeps its own licence. Some are non-commercial.",
+  "date": "2026-11-27"
+ },
+ {
   "keyword": "UPSCALE",
   "title": "Upscayl: free AI photo upscaler",
   "desc": "Turn blurry photos sharp at 4x the size. Free, open source, runs offline on Windows, Mac and Linux.",
