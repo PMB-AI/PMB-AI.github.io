@@ -19,6 +19,25 @@
   "date": "2026-11-27"
  },
  {
+  "keyword": "TOKENS",
+  "title": "FreeLLMAPI: 10B free AI tokens a month",
+  "desc": "Stack the free tiers of 87 AI providers behind one OpenAI-compatible endpoint. Free, open source, runs on your machine.",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "cta": "Get it free",
+  "extra": [
+   {
+    "label": "GitHub",
+    "url": "https://github.com/tashfeenahmed/freellmapi"
+   },
+   {
+    "label": "Model catalog",
+    "url": "https://freellmapi.co/models.html"
+   }
+  ],
+  "note": "For personal projects, not production. You add your own free provider keys.",
+  "date": "2026-11-27"
+ },
+ {
   "keyword": "UPSCALE",
   "title": "Upscayl: free AI photo upscaler",
   "desc": "Turn small, pixelated photos sharp at 4x the size. Free, open source, runs offline on Windows, Mac and Linux.",
