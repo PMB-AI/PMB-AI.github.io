@@ -1,5 +1,24 @@
 [
  {
+  "keyword": "CLAUDE",
+  "title": "Claude Ultra free for 6 months",
+  "desc": "Anthropic's Claude for Open Source program: 6 months of Claude Ultra for open-source maintainers and contributors. Apply on the official page.",
+  "url": "https://claude.com/contact-sales/claude-for-oss",
+  "cta": "Get it free",
+  "extra": [
+   {
+    "label": "Official page",
+    "url": "https://claude.com/contact-sales/claude-for-oss"
+   },
+   {
+    "label": "Program terms",
+    "url": "https://www.anthropic.com/claude-for-oss-terms"
+   }
+  ],
+  "note": "Only for qualifying open-source maintainers and contributors. You apply; places are limited.",
+  "date": "2026-11-28"
+ },
+ {
   "keyword": "VOICE",
   "title": "audio.cpp: free local AI audio",
   "desc": "Clone voices, make music and transcribe speech on your own computer. Free, open source, Windows, Mac and Linux.",
